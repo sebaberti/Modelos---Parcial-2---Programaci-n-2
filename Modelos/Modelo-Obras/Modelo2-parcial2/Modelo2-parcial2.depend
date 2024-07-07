@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1717788376 source:c:\users\msi\onedrive\escritorio\modelo parcial 2 -programacion\modelo-parcial2-prog(2)\modelo2-parcial2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"parcial2.h"
+
+1717786681 c:\users\msi\onedrive\escritorio\modelo parcial 2 -programacion\modelo-parcial2-prog(2)\modelo2-parcial2\parcial2.h
+
